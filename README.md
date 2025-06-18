@@ -5,7 +5,7 @@
 ## 🚀 Skills & Interests
 
 - **Programming Languages:** C/C++, Python
-- **Areas of Interest:** RISCV Processor architecture and development
+- **Curent Areas of Interest:** RISCV Processor architecture and development
 - **Hobbies:** Cricket enthusiast 🏏
 
 ---
