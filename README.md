@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm ntini773!
 
-<!--
-**ntini773/ntini773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** with a passion for technology and learning.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** C/C++, Python
+- **Areas of Interest:** RISCV Processor architecture and development
+- **Hobbies:** Cricket enthusiast 🏏
+
+---
+
+🌱 Always eager to explore new technologies and contribute to exciting projects.  
+💬 Let's connect and collaborate on all things code and cricket!
+
+<!-- Update this section with your social links or favorite projects if you wish! -->
