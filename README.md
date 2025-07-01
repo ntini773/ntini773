@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ntini773!
+# 👋 Hi, I'm Nitin!
 
 🎓 **Student** with a passion for technology and learning.
 
